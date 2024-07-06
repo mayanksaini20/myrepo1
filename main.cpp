@@ -9,5 +9,6 @@ int main()
         cout << "fuck you 🤘";
     }
 
+    cout<<"new changes";
     return 0;
 }
